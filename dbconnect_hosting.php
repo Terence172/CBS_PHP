@@ -1,10 +1,10 @@
 <?php 
 
 // Set DB Parameters
-$servername = "localhost";
-$username = "id17957272_root";
-$password = "gNuQI9srZ7s(%yTG";
-$dbname = "id17957272_db_cbs";
+$servername = "app-65253e25-1652-4a6d-930c-674a4c26fc44-do-user-14095490-0.b.db.ondigitalocean.com";
+$username = "dbcbs";
+$password = "AVNS_Bq7KrhEhPwXPYRETeU-";
+$dbname = "dbcbs";
 
 //Create connection
 $con = mysqli_connect($servername, $username, $password, $dbname);
